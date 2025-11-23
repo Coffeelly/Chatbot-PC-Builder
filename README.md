@@ -13,7 +13,7 @@ Unlike standard LLMs that often generate incorrect hardware compatibility or out
 - Visual Component Analysis: Users can upload photos of hardware components, and the AI (Gemini Vision) will identify the model and specifications.
 - Dynamic Budget Loop: If the real-time price exceeds the user's budget, the agent automatically recalculates and selects lower-tier non-critical components to fit the budget without user intervention.
 - Smart Constraint Handling: Can build a PC around parts the user already owns (e.g., "I already have a GTX 1070, build the rest for 5 million IDR").
-- PDF Report Generation: One-click export of the final build recommendation into a professional PDF file.
+- PDF Report Generation: One-click export of the final build recommendation into a PDF file.
 
 ## System Architecture
 
@@ -86,3 +86,4 @@ chatbot-pc-builder/
 ## Demo Video
 
 https://github.com/user-attachments/assets/93d7a840-fa8d-41ef-b5b2-ad2e2c2c7979
+
