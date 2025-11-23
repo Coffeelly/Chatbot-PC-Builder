@@ -85,5 +85,6 @@ chatbot-pc-builder/
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/93d7a840-fa8d-41ef-b5b2-ad2e2c2c7979
+https://github.com/user-attachments/assets/cb294210-961a-4cea-8450-ae657276dff9
+
 
